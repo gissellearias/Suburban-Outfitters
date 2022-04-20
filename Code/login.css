@@ -1,0 +1,6 @@
+.login-form {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-flow: column wrap;
+}
